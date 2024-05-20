@@ -5,6 +5,10 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+sunnyC:
+  name: sunnyC
+  twitter: sunnyC
+  url: https://github.com/jisun8882/
 
 cotes:
   name: Cotes Chung
